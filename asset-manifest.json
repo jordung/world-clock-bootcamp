@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/world-clock-bootcamp/static/css/main.20f083d4.css",
+    "main.js": "/world-clock-bootcamp/static/js/main.412fea58.js",
+    "static/media/logo.png": "/world-clock-bootcamp/static/media/logo.e54ce6ab620f8c7135f3.png",
+    "index.html": "/world-clock-bootcamp/index.html",
+    "main.20f083d4.css.map": "/world-clock-bootcamp/static/css/main.20f083d4.css.map",
+    "main.412fea58.js.map": "/world-clock-bootcamp/static/js/main.412fea58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f083d4.css",
+    "static/js/main.412fea58.js"
+  ]
+}
